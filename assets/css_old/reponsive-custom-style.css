@@ -1,0 +1,249 @@
+@media (min-width:320px){
+.hidden{width:60%;}
+.school-name{font-size:13px;}
+.profile-pro{padding-top:0px;padding-bottom:5px;margin-left: 0px;width:100%;margin-bottom:10px;
+border-bottom:1px solid #fff;border-left: 0px solid #ddd;padding-left:0px;}
+.welcome-msg{margin-bottom:6px;}
+.s-name-b{font-size: 15px;}
+.t-panel-text{margin-top:0px;float:left;}
+.dash-cell{padding:0px 20px;margin-top:0px;}
+.p-mt-3{margin-top:20px;}
+.p-pl-0{padding-left:15px;}
+.v-f-right{float:none;}
+.std-list-box{padding: 15px 0px;}
+.left-box{padding: 15px 15px;}
+.right-box{padding: 15px 15px;}
+.teacher-pi-box{width: 300px; height: 500px;}
+.p-pr-5{padding-right:15px;}
+.p-pl-5{padding-right:15px;}
+.f-pay-method-box img{width:347px;}
+.mobile-hide{visibility: hidden;}
+.mobile-hide-d{display:none;}
+.desk-hide{display:block;}
+.desk-hide-v{visibility: visible;}
+.p-portal-h{color: #fff;
+    position: absolute;
+    text-align: center;
+    width: 92%;
+    margin-top: -12px;border-bottom: 1px solid #fff;padding-bottom:5px;}
+.vivartaa-msg{padding-left:20px;border-top:0px solid #eee;}
+.fac-box{width:250px;overflow:hidden;}
+.s-school-msg-r{min-height:113px !important;}
+.c-mb-3{margin-bottom:20px;}
+.school-name-border{border-bottom:0px solid #b53300;}
+.v-logo img{width:104px;}
+}
+@media (min-width:360px){
+.hidden{width:60%;}
+.school-name{font-size:13px;}
+.profile-pro{padding-top:0px;padding-bottom:5px;margin-left: 0px;width:100%;margin-bottom:10px;
+border-bottom:1px solid #fff;border-left: 0px solid #ddd;padding-left:0px;}
+.welcome-msg{margin-bottom:6px;}
+.s-name-b{font-size: 15px;}
+.t-panel-text{margin-top:0px;float:left;}
+.dash-cell{padding:0px 20px;margin-top:0px;}
+.p-mt-3{margin-top:20px;}
+.p-pl-0{padding-left:15px;}
+.v-f-right{float:none;}
+.std-list-box{padding: 15px 0px;}
+.left-box{padding: 15px 15px;}
+.right-box{padding: 15px 15px;}
+.teacher-pi-box{width: 300px; height: 500px;}
+.p-pr-5{padding-right:15px;}
+.p-pl-5{padding-right:15px;}
+.f-pay-method-box img{width:347px;}
+.mobile-hide{visibility: hidden;}
+.mobile-hide-d{display:none;}
+.desk-hide{display:block;}
+.desk-hide-v{visibility: visible;}
+.p-portal-h{color: #fff;
+    position: absolute;
+    text-align: center;
+    width: 92%;
+    margin-top: -12px;border-bottom: 1px solid #fff;padding-bottom:5px;}
+.vivartaa-msg{padding-left:20px;border-top:0px solid #eee;}
+.fac-box{width:300px;overflow:hidden;}
+.s-school-msg-r{min-height:113px !important;}
+.c-mb-3{margin-bottom:20px;}
+.school-name-border{border-bottom:0px solid #b53300;}
+.v-logo img{width:104px;}
+}
+
+@media (min-width:480px){
+   .hidden{width:60%;} 
+   .school-name{font-size:13px;}
+
+    .profile-pro{padding-top:0px;padding-bottom:5px;margin-left: 0px;width:100%;
+    margin-bottom:10px;border-bottom:1px solid #fff;border-left: 0px solid #ddd;padding-left:0px;}
+   .welcome-msg{margin-bottom:6px;}
+   .s-name-b{font-size: 15px;}
+   .t-panel-text{margin-top:0px;float:left;}
+   .dash-cell{padding:0px 20px;margin-top:0px;}
+   .p-mt-3{margin-top:20px;}
+   .p-pl-0{padding-left:15px;}
+   .v-f-right{float:none;}
+   .std-list-box{padding: 15px 0px;}
+   .left-box{padding: 15px 15px;}
+   .right-box{padding: 15px 15px;}
+   .teacher-pi-box{width: 400px; height: 500px;}
+   .p-pr-5{padding-right:15px;}
+   .p-pl-5{padding-right:15px;}
+   .f-pay-method-box img{width:347px;}
+   .mobile-hide{visibility: hidden;}
+   .mobile-hide-d{display:none;}
+   .p-portal-h{color: #fff;
+    position: absolute;
+    text-align: center;
+    width: 92%;
+    margin-top: -12px;border-bottom: 1px solid #fff;padding-bottom:5px;}
+.vivartaa-msg{padding-left:20px;border-top:0px solid #eee;}
+.fac-box{width:320px;overflow:hidden;}
+.desk-hide{display:block;}
+.desk-hide-v{visibility: visible;}
+.s-school-msg-r{min-height:113px !important;}
+.c-mb-3{margin-bottom:20px;}
+.school-name-border{border-bottom:0px solid #b53300;}
+.v-logo img{width:104px;}
+}
+
+@media (min-width:768px){
+    .hidden{width:20%;}
+    .school-name{font-size:20px;}
+    .profile-pro{padding-top:16px;padding-bottom:11px;margin-left: 20px;width:auto;
+    margin-bottom:0px;border-bottom:0px solid #fff;border-left: 1px solid #ddd;padding-left:19px;}
+    .welcome-msg{margin-bottom:18px;}
+    .s-name-b{font-size: 17px;}
+    .t-panel-text{margin-top:22px;float:right;}
+    .dash-cell{padding:30px 20px;margin-top:15px;}
+    .p-mt-3{margin-top:0px;}
+    .p-pl-0{padding-left:0;}
+    .v-f-right{float:right;}
+    .std-list-box{padding: 15px 10px;}
+    .left-box{padding: 15px 15px;}
+    .right-box{padding: 15px 15px;}
+    .teacher-pi-box{width: 900px; height: 500px;}
+    .p-pr-5{padding-right:48px;}
+    .p-pl-5{padding-right:48px;}
+    .f-pay-method-box img{width:375px;}
+    .mobile-hide{visibility: visible;}
+    .mobile-hide-d{display:block;}
+    .p-portal-h{color: #fff;
+    position: relative;
+    text-align: center;
+    width: auto;
+    margin-top: 20px;   margin-top: 20px;border-bottom: 0px solid #fff;padding-bottom:0px;}
+.vivartaa-msg{padding-left:0;border-top:1px solid #eee;}
+.fac-box{width:388px;overflow:hidden;}
+.desk-hide{display:none;}
+.desk-hide-v{visibility: hidden;}
+.s-school-msg-r{min-height:470px !important;}
+.c-mb-3{margin-bottom:0px;}
+.school-name-border{border-bottom:3px solid #b53300;}
+.v-logo img{width:155px;}
+}
+
+@media (min-width:980px){
+.hidden{width:20%;}
+.school-name{font-size:20px;}
+.profile-pro{padding-top:16px;padding-bottom:11px;margin-left: 20px;width:auto;
+margin-bottom:0px;border-bottom:0px solid #fff;border-left: 1px solid #ddd;padding-left:19px;}
+.welcome-msg{margin-bottom:18px;}
+.s-name-b{font-size: 17px;}
+.t-panel-text{margin-top:22px;float:right;}
+.dash-cell{padding:30px 20px;margin-top:15px;}
+.p-mt-3{margin-top:0px;}
+.p-pl-0{padding-left:0;}
+.v-f-right{float:right;}
+.std-list-box{padding: 15px 10px;}
+.left-box{padding: 15px 15px;}
+.right-box{padding: 15px 15px;}
+.teacher-pi-box{width: 900px; height: 500px;}
+.p-pr-5{padding-right:48px;}
+.p-pl-5{padding-right:48px;}
+.f-pay-method-box img{width:375px;}
+.mobile-hide{visibility: visible;}
+.mobile-hide-d{display:block;}
+.p-portal-h{color: #fff;
+    position: relative;
+    text-align: center;
+    width: auto;
+    margin-top: 20px;   margin-top: 20px;border-bottom: 0px solid #fff;padding-bottom:0px;}
+.vivartaa-msg{padding-left:0;border-top:1px solid #eee;}
+.fac-box{width:388px;overflow:hidden;}
+.desk-hide{display:none;}
+.desk-hide-v{visibility: hidden;}
+.s-school-msg-r{min-height:470px !important;}
+.c-mb-3{margin-bottom:0px;}
+.school-name-border{border-bottom:3px solid #b53300;}
+.v-logo img{width:155px;}
+}
+
+@media (min-width:1200px){
+.hidden{width:20%;}
+.school-name{font-size:20px;}
+.profile-pro{padding-top:16px;padding-bottom:11px;margin-left: 20px;width:auto;margin-bottom:0px;border-bottom:0px solid #fff;border-left: 1px solid #ddd;padding-left:19px;}
+.welcome-msg{margin-bottom:18px;}
+.s-name-b{font-size: 17px;}
+.t-panel-text{margin-top:22px;float:right;}
+.dash-cell{padding:30px 20px;margin-top:15px;}
+.p-mt-3{margin-top:0px;}
+.p-pl-0{padding-left:0;}
+.v-f-right{float:right;}
+.std-list-box{padding: 15px 10px;}
+.left-box{padding: 15px 15px;}
+.right-box{padding: 15px 15px;}
+.teacher-pi-box{width: 900px; height: 500px;}
+.p-pr-5{padding-right:48px;}
+.p-pl-5{padding-right:48px;}
+.f-pay-method-box img{width:375px;}
+.mobile-hide{visibility: visible;}
+.mobile-hide-d{display:block;}
+.desk-hide-v{visibility: hidden;}
+.p-portal-h{color: #fff;
+    position: relative;
+    text-align: center;
+    width: auto;
+    margin-top: 20px;   margin-top: 20px;border-bottom: 0px solid #fff;padding-bottom:0px;}
+.vivartaa-msg{padding-left:0;border-top:1px solid #eee;}
+.fac-box{width:388px;overflow:hidden;}
+.desk-hide{display:none;}
+.s-school-msg-r{min-height:470px !important;}
+.c-mb-3{margin-bottom:0px;}
+.school-name-border{border-bottom:3px solid #b53300;}
+.v-logo img{width:155px;}
+}
+
+@media (min-width:1600px){
+.hidden{width:20%;}
+.school-name{font-size:20px;}
+.profile-pro{padding-top:16px;padding-bottom:11px;margin-left: 20px;width:auto;margin-bottom:0px;border-bottom:0px solid #fff;border-left: 1px solid #ddd;padding-left:19px;}
+.welcome-msg{margin-bottom:18px;}
+.s-name-b{font-size: 17px;}
+.t-panel-text{margin-top:22px;float:right;}
+.dash-cell{padding:30px 20px;margin-top:15px;}
+.p-mt-3{margin-top:0px;}
+.p-pl-0{padding-left:0;}
+.v-f-right{float:right;}
+.std-list-box{padding: 15px 10px;}
+.left-box{padding: 15px 15px;}
+.right-box{padding: 15px 15px;}
+.teacher-pi-box{width: 900px; height: 500px;}
+.p-pr-5{padding-right:48px;}
+.p-pl-5{padding-right:48px;}
+.f-pay-method-box img{width:375px;}
+.mobile-hide{visibility: visible;}
+.mobile-hide-d{display:block;}
+.desk-hide{display:none;}
+.desk-hide-v{visibility: hidden;}
+.p-portal-h{color: #fff;
+    position: relative;
+    text-align: center;
+    width: auto;
+    margin-top: 20px;border-bottom: 0px solid #fff;padding-bottom:0px;}
+.vivartaa-msg{padding-left:0;border-top:1px solid #eee;}
+.fac-box{width:388px;overflow:hidden;}
+.s-school-msg-r{min-height:470px !important;}
+.c-mb-3{margin-bottom:0px;}
+.school-name-border{border-bottom:3px solid #b53300;}
+.v-logo img{width:155px;}
+}
