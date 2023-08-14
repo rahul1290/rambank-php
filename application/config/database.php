@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
- 	'hostname' => 'rambank.cxxb7ckze8tl.ap-south-1.rds.amazonaws.com',
+ 	'hostname' => 'db-rambank.cxxb7ckze8tl.ap-south-1.rds.amazonaws.com',
     'username' => 'admin',
 	'password' => 'rambank1',
-	'database' => 'bank',
+	'database' => 'rambank',
 
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

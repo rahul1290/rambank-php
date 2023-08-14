@@ -15,7 +15,9 @@ class Auth extends REST_Controller {
 		$this->load->model('Auth_model');
 	}
 	
-	
+	function index_get(){
+		print_r("Hello World");
+	}
 	//cron job update today as Zero
 	function feeds_get(){
 	    $result = $this->db->query("select * from feeds")->result_array();
